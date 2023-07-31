@@ -45,3 +45,12 @@
 //   person.myForEach();
 // }
 // printName2(person);
+
+// var s = function (){
+//     console.log("expression is called");
+// }
+// s();
+// function madhu(){
+//     console.log("statment is called");
+// }
+// madhu();
