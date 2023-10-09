@@ -26,3 +26,5 @@ prom()
   .catch((error) => {
     console.error(error);
   });
+
+  // https://replit.com/@Sri-SomanaathSo/asyncawait#script.js
